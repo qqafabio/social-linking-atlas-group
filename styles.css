@@ -63,7 +63,7 @@ section {
 section div {
     background-color: #154e79;
     border-radius: 8px;
-    padding: 24px 32px 32px;
+    padding: 23px 32px 32px;
 }
 
 section h2 {
@@ -76,15 +76,11 @@ section p {
     font-size: 15px;
 }
 
-p cc {
-    color: #ffffff;
-}
-
 section ul {
     display: flex;
     flex-wrap: wrap;
     alignment: center;
-    gap: 20px;
+    gap: 12px;
     margin-top: 24px;
 }
 
